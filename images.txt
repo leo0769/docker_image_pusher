@@ -1,2 +1,2 @@
 nginx
-lanol/filecodebox
+lanol/filecodebox:latest
