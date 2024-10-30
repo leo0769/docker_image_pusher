@@ -1,3 +1,4 @@
 guovern/tv-requests:latest
 guovern/tv-driver:latest
 stilleshan/frpc:latest
+nyanmisaka/jellyfin
