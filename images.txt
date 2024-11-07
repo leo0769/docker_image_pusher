@@ -1,1 +1,1 @@
-auto_bangumi:latest
+estrellaxd/auto_bangumi:latest
