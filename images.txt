@@ -1,1 +1,1 @@
-kasmweb/telegram
+.io/yuukiy/javsp:master
