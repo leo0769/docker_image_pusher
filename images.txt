@@ -1,2 +1,3 @@
 estrellaxd/auto_bangumi:latest
 ghostchu/peerbanhelper:v7.1.3
+kxhubs/javsp
