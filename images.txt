@@ -1,2 +1,1 @@
-a76yyyy/qiandao
-jxxghp/moviepilot-v2:latest
+netdata/netdata
